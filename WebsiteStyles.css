@@ -16,6 +16,10 @@ ul {
 	font-family: Arial;
 	text-align: center;
 } 
+ul.a {
+	list-style-type: circle;
+	text-align: left;
+}
 table, th, td {
     border: 1px solid black;
 }
