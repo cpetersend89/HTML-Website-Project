@@ -1,3 +1,12 @@
+body {
+	margin: auto;
+    width: 70%;
+    padding: 10px;
+	background: white;
+	background-position: top;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
 img.displayed {
     width:50%;
     height: 50%;
@@ -12,7 +21,9 @@ p {
 ul {
     list-style-type: none;
     margin: 0;
-	padding: 30px;
+	padding-top: 30px;
+	padding-left: 0;
+	padding-right: 0;
 	font-family: Arial;
 	text-align: center;
 } 
